@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\bin\Debug\Aula2Noite.exe.config
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\bin\Debug\Aula2Noite.exe
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\bin\Debug\Aula2Noite.pdb
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.csprojAssemblyReference.cache
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.Form1.resources
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.Properties.Resources.resources
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.csproj.GenerateResource.cache
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.exe
+C:\Users\labs\Documents\A\Aula2Noite\Aula2Noite\obj\Debug\Aula2Noite.pdb
