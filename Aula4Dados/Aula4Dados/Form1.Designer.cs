@@ -28,12 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lbl1 = new System.Windows.Forms.Label();
             this.lblresultado = new System.Windows.Forms.Label();
             this.lbl2 = new System.Windows.Forms.Label();
             this.btjogar = new System.Windows.Forms.Button();
             this.pic1 = new System.Windows.Forms.PictureBox();
             this.pic2 = new System.Windows.Forms.PictureBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pic1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic2)).BeginInit();
             this.SuspendLayout();
@@ -103,6 +105,12 @@
             this.pic2.TabIndex = 5;
             this.pic2.TabStop = false;
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.Timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -132,6 +140,7 @@
         private System.Windows.Forms.Button btjogar;
         private System.Windows.Forms.PictureBox pic1;
         private System.Windows.Forms.PictureBox pic2;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

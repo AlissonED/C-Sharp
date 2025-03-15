@@ -52,5 +52,10 @@ namespace Aula4Dados
         {
 
         }
+
+        private void Timer1_Tick(object sender, EventArgs e)
+        {
+            lblresultado.Text = DateTime.Now.ToString();
+        }
     }
 }
