@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\bin\Debug\Aula6ex.exe.config
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\bin\Debug\Aula6ex.exe
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\bin\Debug\Aula6ex.pdb
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.csprojAssemblyReference.cache
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.Form1.resources
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.Properties.Resources.resources
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.csproj.GenerateResource.cache
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.exe
+C:\Users\labs\Documents\A\Aula6ex\Aula6ex\Aula6ex\obj\Debug\Aula6ex.pdb
