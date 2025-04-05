@@ -26,10 +26,34 @@ namespace Aula4Media
         {
             double p1, p2, t, m;
 
-            p1 = Convert.ToDouble(n1.Text);
-            p2 = Convert.ToDouble(n2.Text);
-            t = Convert.ToDouble(trabalho.Text);
+            p1 = Convert.ToDouble(txtp1.Text);
+            p2 = Convert.ToDouble(txtp2.Text);
+            t = Convert.ToDouble(txttrabalho.Text);
 
+            m = (p1 * 0.35) + (p2 * 0.35) + (t * 0.3);
+
+            lblresultado.Text = Convert.ToString("A Média é de :" + m);
+
+            txtmedia.Text = Convert.ToString(m);
+
+
+            if (m >= 6) lblaprovado.Text = "Aprovado";
+            else lblaprovado.Text = "Reprovado";
+
+
+        }
+
+        private void Btlimpar_Click(object sender, EventArgs e)
+        {
+            txtp1.Text = "";
+            txtp2.Text = "";
+            txttrabalho.Clear();
+            txtmedia.Clear();
+            txtp1.Focus();
+        }
+
+        private void Txttrabalho_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

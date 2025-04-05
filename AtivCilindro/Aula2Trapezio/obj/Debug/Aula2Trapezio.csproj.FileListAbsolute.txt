@@ -1,0 +1,19 @@
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\bin\Debug\Aula2Trapezio.exe.config
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\bin\Debug\Aula2Trapezio.exe
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\bin\Debug\Aula2Trapezio.pdb
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\obj\Debug\Aula2Trapezio.Form1.resources
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\obj\Debug\Aula2Trapezio.Properties.Resources.resources
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\obj\Debug\Aula2Trapezio.csproj.GenerateResource.cache
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\obj\Debug\Aula2Trapezio.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\obj\Debug\Aula2Trapezio.exe
+C:\Users\labs\Documents\A\Aula2Trapezio\Aula2Trapezio\obj\Debug\Aula2Trapezio.pdb
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\bin\Debug\Aula2Trapezio.exe.config
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\bin\Debug\Aula2Trapezio.exe
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\bin\Debug\Aula2Trapezio.pdb
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.csprojAssemblyReference.cache
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.Form1.resources
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.Properties.Resources.resources
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.csproj.GenerateResource.cache
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.csproj.CoreCompileInputs.cache
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.exe
+C:\Users\labs\Downloads\C-Sharp-main\Aula2Trapezio - Copia\Aula2Trapezio\obj\Debug\Aula2Trapezio.pdb

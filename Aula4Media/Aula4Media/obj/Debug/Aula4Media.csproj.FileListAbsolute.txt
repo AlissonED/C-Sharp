@@ -1,0 +1,10 @@
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\bin\Debug\Aula4Media.exe.config
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\bin\Debug\Aula4Media.exe
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\bin\Debug\Aula4Media.pdb
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.csprojAssemblyReference.cache
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.Form1.resources
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.Properties.Resources.resources
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.csproj.GenerateResource.cache
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.csproj.CoreCompileInputs.cache
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.exe
+C:\Users\labs\Downloads\C-Sharp-main\Aula4Media\Aula4Media\obj\Debug\Aula4Media.pdb
