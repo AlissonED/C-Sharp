@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\bin\Debug\CalculoCodDeBarra.exe.config
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\bin\Debug\CalculoCodDeBarra.exe
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\bin\Debug\CalculoCodDeBarra.pdb
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.csprojAssemblyReference.cache
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.Form1.resources
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.Properties.Resources.resources
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.csproj.GenerateResource.cache
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.exe
+C:\Users\labs\Documents\A\CodCalc\CalculoCodDeBarra\CalculoCodDeBarra\obj\Debug\CalculoCodDeBarra.pdb
