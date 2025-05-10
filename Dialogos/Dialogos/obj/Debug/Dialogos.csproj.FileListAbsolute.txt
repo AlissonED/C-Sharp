@@ -1,0 +1,10 @@
+C:\Users\labs\Documents\A\Dialogos\Dialogos\bin\Debug\Dialogos.exe.config
+C:\Users\labs\Documents\A\Dialogos\Dialogos\bin\Debug\Dialogos.exe
+C:\Users\labs\Documents\A\Dialogos\Dialogos\bin\Debug\Dialogos.pdb
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.csprojAssemblyReference.cache
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.Form1.resources
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.Properties.Resources.resources
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.csproj.GenerateResource.cache
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.exe
+C:\Users\labs\Documents\A\Dialogos\Dialogos\obj\Debug\Dialogos.pdb

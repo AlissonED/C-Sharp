@@ -1,0 +1,13 @@
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\bin\Debug\menus.exe.config
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\bin\Debug\menus.exe
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\bin\Debug\menus.pdb
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.csprojAssemblyReference.cache
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.Form1.resources
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.Properties.Resources.resources
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.csproj.GenerateResource.cache
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.csproj.CoreCompileInputs.cache
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.exe
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.pdb
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.CadCategorias.resources
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.CadFornecedor.resources
+C:\Users\labs\Documents\A\aula 26-04\menus\menus\obj\Debug\menus.CadProduto.resources
